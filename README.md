@@ -4,20 +4,20 @@ Key Computer Components
 -- 
 
 **Cooler - Includes a metal heat sink and a fan**
- - Used to keep the system cool, preventing overheating.
- - The heat sink is a metal block, that absorbs heat, distributes and transfers the heat to the surrounding air.
- - The fan helps maintain a steady airflow and prevents the buildup of hot air
+- Used to keep the system cool, preventing overheating.
+- The heat sink is a metal block that absorbs heat and distributes and transfers the heat to the surrounding air.
+- The fan helps maintain a steady airflow and prevents the buildup of hot air.
 
 <img src="https://i.imgur.com/tlJ3J4r.png" height="30%" width="50%" alt="Heat sink and fan"/>
 
 **GPU (Graphics processing unit)**
- - Responsible for rendering images, videos, and animations, so it can be displayed on to your computer's monitor.
+ - Responsible for rendering images, videos, and animations so it can be displayed on to your computer's monitor.
 
 <img src="https://i.imgur.com/CP8Lf9t.jpeg" height="30%" width="50%" alt="Heat sink and fan"/>
 
 **CPU (Central processing unit)**
  - Responsible for executing instructions and performing calculations.
- - It is responsible for running software programs and carrying out arithmetic, logic, control, and input/output operations.
+ - Responsible for running software programs and carrying out arithmetic, logic, control, and input/output operations.
 
    <img src="https://i.imgur.com/cepX2BW.png" height="30%" width="50%" alt="A CPU"/>
 
@@ -39,10 +39,10 @@ Key Computer Components
 <img src="https://i.imgur.com/3M6hecq.png" height="30%" width="50%" alt="A Network interface card"/>
 
 **Storage, Hard disk drive/ Solid state drive**
- - Long term memory
+ - Long-term memory
  - Is responsible for storing data and programs on your computer
  - Some advantages of using a Hard disk drive (HDD):
-   - HDD is generally more cheaper compared to an SSD.
+   - HDD is generally cheaper compared to an SSD.
    - HDDs are available in higher capacity, making them better for storing large amounts of data.
  - Disadvantages of using HDD:
    - Slower performance - HDDs have slower data access and transfer rates compared to SSDs
