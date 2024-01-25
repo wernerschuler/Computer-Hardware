@@ -1,5 +1,8 @@
 <h1>Computer Hardware</h1>
 
+Key Computer Components
+-- 
+
 **Cooler - Includes a metal heat sink and a fan**
  - Used to keep the system cool, preventing overheating.
  - The heat sink is a metal block, that absorbs heat, distributes and transfers the heat to the surrounding air.
@@ -7,7 +10,7 @@
 
 <img src="https://i.imgur.com/tlJ3J4r.png" height="30%" width="50%" alt="Heat sink and fan"/>
 
-**GPU (Graphics proessing unit)**
+**GPU (Graphics processing unit)**
  - Responsible for rendering images, videos, and animations, so it can be displayed on to your computer's monitor.
 
 <img src="https://i.imgur.com/CP8Lf9t.jpeg" height="30%" width="50%" alt="Heat sink and fan"/>
@@ -51,6 +54,10 @@
    - Data Recovery: In case of a failure or data corruption in an SSD, data recovery can be more challenging compared to HDDs. While both types of drives can experience failures, data recovery is typically more feasible and cost-effective with traditional HDDs.
    - Cost: SSDs are generally more expensive per unit of storage compared to HDDs. Although prices have been decreasing over time.
 
+   <img src="https://i.imgur.com/LJ3xLqt.png" height="30%" width="50%" alt="A hard disk drive and a solid state drive"/>
+
 **Motherboard**
  - Where other computer components can connect to. For example, it has a CPU socket, memory slots to insert the RAM, expansion slots, SATA connectors which is used to connect your storage device.
  - Allows the components to connect and communicate with each other.
+
+<img src="https://i.imgur.com/sDaSu8P.png" height="30%" width="50%" alt="A motherboard"/>
