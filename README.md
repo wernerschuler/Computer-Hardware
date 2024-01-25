@@ -1,6 +1,15 @@
 <h1>Computer Hardware</h1>
 
-**Cooler - A metal heat sink and a fan**
+**Cooler - Includes a metal heat sink and a fan**
+ - Used to keep the system cool, preventing overheating.
+ - The heat sink is a metal block, that absorbs heat, distributes and transfers the heat to the surrounding air.
+ - The fan helps maintain a steady airflow and prevents the buildup of hot air 
+
+**GPU (Graphics proessing unit)**
+ - Responsible for rendering images, videos, and animations, so it can be displayed on to your computer's monitor.
+
+**CPU (Central processing unit)**
+ - Is the component that performs most of the processing inside the computer. The CPU executes instructions, performs calculations, and manages the flow of data between different components of the computer system. 
 
 **RAM (Random access memory**
  - RAM provides temporary storage.
@@ -30,5 +39,5 @@
   - Cost: SSDs are generally more expensive per unit of storage compared to HDDs. Although prices have been decreasing over time.
 
 **Motherboard**
- - Where other computer components can connect to. For example, it has a CPU socket, memory slots to insert the RAM, expansion slots, SATA connectors which is used to connect your storage device
+ - Where other computer components can connect to. For example, it has a CPU socket, memory slots to insert the RAM, expansion slots, SATA connectors which is used to connect your storage device.
  - Allows the components to connect and communicate with each other.
