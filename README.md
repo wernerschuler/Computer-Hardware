@@ -38,7 +38,7 @@
 **Storage, Hard disk drive/ Solid state drive**
  - Long term memory
  - Is responsible for storing data and programs on your computer
- - Some advantages of using a HDD:
+ - Some advantages of using a Hard disk drive (HDD):
    - HDD is generally more cheaper compared to an SSD.
    - HDDs are available in higher capacity, making them better for storing large amounts of data.
  - Disadvantages of using HDD:
@@ -48,8 +48,8 @@
     - Increased speed: SSDs offer significantly faster data access and transfer speeds compared to HDDs. This results in faster boot times, quicker loading of applications, and improved overall system responsiveness.
     - Lower power consumption: SSDs consume less power than HDDs, resulting in lower energy usage and longer battery life for laptops and portable devices.
  - Disadvantages of using an SSD. SSDs offer many advantages over HDDs but they do have some drawbacks:
-  - Data Recovery: In case of a failure or data corruption in an SSD, data recovery can be more challenging compared to HDDs. While both types of drives can experience failures, data recovery is typically more feasible and cost-effective with traditional HDDs.
-  - Cost: SSDs are generally more expensive per unit of storage compared to HDDs. Although prices have been decreasing over time.
+   - Data Recovery: In case of a failure or data corruption in an SSD, data recovery can be more challenging compared to HDDs. While both types of drives can experience failures, data recovery is typically more feasible and cost-effective with traditional HDDs.
+   - Cost: SSDs are generally more expensive per unit of storage compared to HDDs. Although prices have been decreasing over time.
 
 **Motherboard**
  - Where other computer components can connect to. For example, it has a CPU socket, memory slots to insert the RAM, expansion slots, SATA connectors which is used to connect your storage device.
