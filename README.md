@@ -3,25 +3,37 @@
 **Cooler - Includes a metal heat sink and a fan**
  - Used to keep the system cool, preventing overheating.
  - The heat sink is a metal block, that absorbs heat, distributes and transfers the heat to the surrounding air.
- - The fan helps maintain a steady airflow and prevents the buildup of hot air 
+ - The fan helps maintain a steady airflow and prevents the buildup of hot air
+
+<img src="https://i.imgur.com/tlJ3J4r.png" height="30%" width="50%" alt="Heat sink and fan"/>
 
 **GPU (Graphics proessing unit)**
  - Responsible for rendering images, videos, and animations, so it can be displayed on to your computer's monitor.
 
+<img src="https://i.imgur.com/CP8Lf9t.jpeg" height="30%" width="50%" alt="Heat sink and fan"/>
+
 **CPU (Central processing unit)**
  - Responsible for executing instructions and performing calculations.
  - It is responsible for running software programs and carrying out arithmetic, logic, control, and input/output operations.
+
+   <img src="https://i.imgur.com/cepX2BW.png" height="30%" width="50%" alt="A CPU"/>
 
 **RAM (Random access memory**
  - RAM provides temporary storage.
  - Stores data and instructions that the CPU needs to access quickly.
  - Temporary storage for computer programs programs that are currently in use. When you turn off your computer the RAM gets wiped out.
 
+   <img src="https://i.imgur.com/FoHyfjr.png" height="30%" width="50%" alt="A RAM"/>
+
 **Power supply unit**
  - Takes AC power from the wall and transforms it into many different DC currents specific to each component. It is responsible for providing the necessary electrical power to run the internal components of the computer, including the motherboard, processor, memory, storage devices, graphics card, and peripherals.
 
+<img src="https://i.imgur.com/Dv9eeqR.png" height="30%" width="50%" alt="A Power supply unit"/>
+
 **NIC (Network interface card)**
  - Allows a device to connect to a network.
+
+<img src="https://i.imgur.com/3M6hecq.png" height="30%" width="50%" alt="A Network interface card"/>
 
 **Storage, Hard disk drive/ Solid state drive**
  - Long term memory
