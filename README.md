@@ -9,7 +9,8 @@
  - Responsible for rendering images, videos, and animations, so it can be displayed on to your computer's monitor.
 
 **CPU (Central processing unit)**
- - Is the component that performs most of the processing inside the computer. The CPU executes instructions, performs calculations, and manages the flow of data between different components of the computer system. 
+ - Responsible for executing instructions and performing calculations.
+ - It is responsible for running software programs and carrying out arithmetic, logic, control, and input/output operations.
 
 **RAM (Random access memory**
  - RAM provides temporary storage.
